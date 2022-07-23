@@ -223,6 +223,13 @@
         font-size: 20px;
     }
 }
+@media (max-width: 397px) {
+    .card {
+        width: 75%;
+        padding: 40px 10px;
+        border-radius: 8px;
+    }
+}
 /* mobile-m */
 @media (max-width: 376px) {
     .card {
